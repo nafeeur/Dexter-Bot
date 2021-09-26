@@ -44,5 +44,4 @@ async def on_message(message):
       answer = answer[:1910]
       await message.channel.send( "```" + answer + "......... " + "*** Please visit Wikipedia to read rest of the article ***" + "```" )
       
-keep_alive()
 client.run(tkn)

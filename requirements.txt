@@ -2,4 +2,3 @@ discord
 wolframalpha 
 wikipedia 
 internetarchive 
-Flask 
