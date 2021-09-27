@@ -7,6 +7,6 @@
 $db$ "command" &
 $dbwiki$ "command"
 
-$db$ is the general purpose query command. It can be used for both simple and advanced computations as well for general trivia questions. 
+- $db$ is the general purpose query command. It can be used for both simple and advanced computations as well for general trivia questions. 
 
-$dbwiki$ will provide user with a ~2000 words (Discord limit) Wikipedia article summary of any topic.
+- $dbwiki$ will provide user with a ~2000 words (Discord limit) Wikipedia article summary of any topic.
